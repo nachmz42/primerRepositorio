@@ -23,8 +23,6 @@ Proceso Ejercicio_7_12
 			Escribir sin saltar marco[x,i];
 		FinPara
 		Escribir "";
-		
-		Escribir "Esto es para probar el nuevo commit";
 	FinPara
 	
 	
